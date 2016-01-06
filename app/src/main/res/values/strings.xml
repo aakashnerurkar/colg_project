@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">messenger</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign up!</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="or">Or</string>
+
+
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_forum">ForumActivity</string>
+    <string name="new_post">New Post</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_newpost">NewpostActivity</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_threaddetail">ThreaddetailActivity</string>
+    <string name="title_activity_newcomment">NewcommentActivity</string>
+    <string name="title_activity_navigation_drawer_fragment">NavigationDrawerFragment</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="drawer_open" />
+    <string name="drawer_close" />
+
+</resources>

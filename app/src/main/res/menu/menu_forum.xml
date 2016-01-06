@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ebis.com.example.aakash.messenger.ForumActivity">
+
+    <item
+        android:id="@+id/new_topic"
+        android:title="@string/new_post"
+        android:showAsAction="never"
+        />
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout"
+        android:showAsAction="never"
+        />
+</menu>
